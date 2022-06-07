@@ -1,0 +1,19 @@
+{
+  "name": "<% project.name %>",
+  "description": "<% project.description %>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "roll dev",
+    "build": "roll build",
+    "format": "roll format"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@tangible/roller": "1.x"
+  },
+  "homepage": "",
+  "author": "Team Tangible",
+  "license": "MIT",
+  "keywords": []
+}
