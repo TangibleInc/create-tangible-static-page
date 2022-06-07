@@ -4,7 +4,7 @@ This project template is published to NPM, and can be installed using the Node p
 
 ## Requirement
 
-[Node.js](nodejs.org/) 12 and above
+[Node.js](https://nodejs.org/) 12 and above
 
 ## Usage
 
