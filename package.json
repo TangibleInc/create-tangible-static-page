@@ -1,7 +1,7 @@
 {
   "name": "create-tangible-static-page",
   "description": "Create Tangible Project: Static Page",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": {
     "create-tangible-static-page": "index.js"

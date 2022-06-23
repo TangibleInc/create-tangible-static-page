@@ -117,7 +117,7 @@ async function createProject() {
     }
   })
 
-  await run('npm install')
+  await run('npm install --audit=false --loglevel=error')
 
-  console.log(`\nDone. Start by running:\ncd ${projectName}\nnpm run dev`)
+  console.log(`\nDone.\n\nStart by running:\n\ncd ${projectName}\nnpm run dev\n`)
 }
