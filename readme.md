@@ -2,6 +2,11 @@
 
 This project template is published to NPM, and can be installed using the Node package manager.
 
+#### Source code
+
+https://bitbucket.org/tangibleinc/create-tangible-static-page
+
+
 ## Requirement
 
 [Node.js](https://nodejs.org/) 12 and above
