@@ -6,6 +6,9 @@
   "bin": {
     "create-tangible-static-page": "index.js"
   },
+  "tangible": {
+    "deployType": "tool"
+  },
   "scripts": {
     "release": "npm publish --access public"
   },
