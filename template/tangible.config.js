@@ -1,7 +1,7 @@
-const config = {
+export default {
   build: [
     {
-      src: 'src/index.js',
+      src: 'src/index.ts',
       dest: 'build/index.min.js'
     },
     {
@@ -19,5 +19,3 @@ const config = {
     port: 3000
   }
 }
-
-module.exports = config

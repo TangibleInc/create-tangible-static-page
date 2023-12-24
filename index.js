@@ -1,15 +1,18 @@
 #!/usr/bin/env node
 
-const path = require('path')
-const { execSync } = require('child_process')
+import path from 'path'
+import { fileURLToPath } from 'url'
+import { execSync } from 'child_process'
 
 // https://github.com/jprichardson/node-fs-extra/
-const fse = require('fs-extra')
+import fse from 'fs-extra'
 // https://github.com/SBoudrias/Inquirer.js/
-const inquirer = require('inquirer')
+import inquirer from 'inquirer'
 // https://github.com/nbubna/Case
-const changeCase = require('case')
-const chalk = require('picocolors')
+import changeCase from 'case'
+import chalk from 'picocolors'
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
 // Project template specific configuration
 

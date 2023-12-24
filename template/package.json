@@ -1,6 +1,7 @@
 {
   "name": "<% project.name %>",
   "description": "<% project.description %>",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "roll dev",

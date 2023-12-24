@@ -1,7 +1,8 @@
 {
   "name": "create-tangible-static-page",
   "description": "Create a static page project",
-  "version": "1.0.3",
+  "version": "2.0.0",
+  "type": "module",
   "main": "index.js",
   "bin": {
     "create-tangible-static-page": "index.js"
@@ -14,11 +15,11 @@
   },
   "dependencies": {
     "case": "^1.6.3",
-    "fs-extra": "^10.1.0",
-    "inquirer": "^8.2.4",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^9.2.12",
     "picocolors": "^1.0.0"
   },
-  "homepage": "https://bitbucket.org/tangibleinc/create-tangible-static-page",
+  "homepage": "https://github.com/tangibleinc/create-tangible-static-page",
   "author": "Team Tangible",
   "license": "MIT",
   "keywords": []
