@@ -4,7 +4,7 @@ This project template is published to NPM, and can be installed using the Node p
 
 #### Source code
 
-https://bitbucket.org/tangibleinc/create-tangible-static-page
+https://github.com/tangibleinc/create-tangible-static-page
 
 
 ## Requirement
